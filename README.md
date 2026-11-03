@@ -102,4 +102,4 @@ All work is in `sales_analysis.ipynb`.
 
 ## Author
 
-Your Name · [GitHub](https://github.com/your-username) · [LinkedIn](https://www.linkedin.com/in/your-profile)
+Your Name · [Github](https://github.com/young-odhiambo) · [LinkedIn](https://www.linkedin.com/in/young-odhiambo)
